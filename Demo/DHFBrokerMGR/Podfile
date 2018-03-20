@@ -1,0 +1,11 @@
+target :'DHFBrokerMGR' do
+    platform :ios, "8.0"
+    pod 'AFNetworking'
+    pod 'FMDB'
+    pod 'MBProgressHUD'
+    pod 'MJRefresh'
+    pod 'SDWebImage'
+    pod 'Masonry'
+    pod 'MJExtension'
+    pod 'IQKeyboardManager'
+end
